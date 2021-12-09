@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D9wGaDByf7x7td3qlPyIKvnRCVfNslDsmp/E3e+W6Rk2N1lCqKORARNge0F2G+t1NVcNg3yVKZVcXOG71uCsgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PoojaJ\\ImpactTaining\\Kubernetes\\EmployeeWebAppPODPrac\\EmployeeWebAppPODPrac\\EmployeeWebAppPODPrac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PoojaJ\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
